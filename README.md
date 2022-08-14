@@ -1,1 +1,1 @@
-# ShiftItPrivacyPolicy.github.io
+# ShiftIt.github.io
